@@ -18,6 +18,7 @@ h1 {
     text-shadow: 1px 0.6em 3px lightgray;
     border-bottom: solid 3px rgb(115, 115, 114);
 }
-#basic div{
+#basic {
     font-weight: bold;
+
 }
